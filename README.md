@@ -1,5 +1,5 @@
 # Portfolio
-# Lora – Data Science Portfolio
+# Lora Alyateem – Data Science Portfolio
 
 **Data Science Graduate** passionate about transforming complex data into actionable insights. I build advanced data projects using machine learning, statistical modeling, and visualization to support real-world decision-making and deliver measurable impact.
 
